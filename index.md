@@ -1,9 +1,8 @@
 # Julia Le 
-## **About Me**
 >Welcome to my User Page! Scroll to read more about me! 
+![profile](Images/Me.JPG)
+<img src=profile width=50% height=50%/>
 
-
-//insert profile picture 
 
 ## UCSD
 I'm a Third-Year Computer Engineering Student here at UCSD. I have recently become involved with research (section link) here on campus, but I am also interested in developing my programming skills and learning about industry. 
@@ -11,9 +10,12 @@ I'm a Third-Year Computer Engineering Student here at UCSD. I have recently beco
 ## Free-time
 When given the chance, I like to bake and cook. 
 //insert pictures 
-![Alt text](Images/cake.jpg)
-![Alt text](Images/puff.JPG)
-![Alt text](Images/pasta.JPG)
+![cake](Images/cake.jpg)
+![puff](Images/puff.JPG)
+![pasta](Images/pasta.JPG)
+<img src=cake width=50% height=50%/>
+<img src=puff width=50% height=50%/>
+<img src=pasta width=50% height=50%/>
 
 ## **Research**
 
@@ -57,7 +59,7 @@ To access these recordings which is stored in the internal storage of the phone,
 
 ```
 adb shell
-run-as org.nativescript.AudioMoth ls data/user/org.nativecript.AudioMoth9/files
+run-as org.nativescript.AudioMoth ls data/user/0/org.nativecript.AudioMoth9/files
 ```
 However, this appears to only work on some models of android devices and not others. This is an issue we are currently addressing. 
 
