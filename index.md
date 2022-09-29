@@ -1,6 +1,6 @@
 # Julia Le 
 >Welcome to my User Page! Scroll to read more about me! 
-![Me](Images/Me.JPG)
+![Me](Images/Me.JPG= 250x)
 <img src="Me.JPG" width=50% height=50%/>
 
 
