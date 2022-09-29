@@ -9,7 +9,8 @@
 I'm a Third-Year Computer Engineering Student here at UCSD. I have recently become involved with research here on campus, but I am also interested in developing my programming skills and learning more about industry. 
 
 ## Free-time
-When given the chance, I like to bake and cook. 
+When given the chance, I like to bake and cook. \n
+
 <img src="Images/cake.jpg" width=50% height=50%/>
 <img src="Images/puff.JPG" width=50% height=50%/>
 <img src="Images/pasta.JPG" width=50% height=50%/>
