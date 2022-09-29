@@ -1,7 +1,7 @@
 # Julia Le 
 >Welcome to my User Page! Scroll to read more about me! 
-
-<img src="Images/Me.JPG" width=50% height=50%/>
+![drawing](Images/Me.JPG)
+<img src="Me.JPG" width=50% height=50%/>
 
 
 ## UCSD
