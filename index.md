@@ -1,7 +1,7 @@
 # Julia Le 
 >Welcome to my User Page! Scroll to read more about me! 
 ![Me](Images/Me.JPG)
-<img src="Images/Me.JPG" width=50% height=50%/>
+
 
 
 ## UCSD
@@ -9,10 +9,10 @@ I'm a Third-Year Computer Engineering Student here at UCSD. I have recently beco
 
 ## Free-time
 When given the chance, I like to bake and cook.
+![cake](Images/cake.JPG)
+![puff](Images/puff.JPG)
+![pasta](Images/pasta.JPG)
 
-<img src="Images/cake.jpg" width=50% height=50%/>
-<img src="Images/puff.JPG" width=50% height=50%/>
-<img src="Images/pasta.JPG" width=50% height=50%/>
 
 ## **Research**
 
