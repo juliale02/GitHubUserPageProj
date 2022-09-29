@@ -1,8 +1,8 @@
 # Julia Le 
 >Welcome to my User Page! Scroll to read more about me! 
 ![Me](Images/Me.JPG | width=100)
-<img src="Me.JPG" width=50% height=50%/>
-<img src="Me.JPG" width="100" height="100">
+![Me](Images/Me.JPG)
+<img src="Images/Me.JPG" width=50% height=50%/>
 
 
 ## UCSD
