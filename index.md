@@ -9,6 +9,7 @@ I'm a Third-Year Computer Engineering Student here at UCSD. I have recently beco
 
 ## Free-time
 When given the chance, I like to bake and cook.
+
 ![cake](Images/cake.JPG)
 ![puff](Images/puff.JPG)
 ![pasta](Images/pasta.JPG)
